@@ -1,6 +1,3 @@
-# manishbarikmb.github.io
-Happy Birthday
+# HAPPY BIRTHDAY ANJALI
 
-A simple birthday page made using Bootstrap & scrollReveal.js
-
-https://manishbarikmb.github.io/
+A SMALL AND SIMPLE WEBSITE MADE BY KHAJA ON YOUR SPECIAL DAY OCCASSION 
